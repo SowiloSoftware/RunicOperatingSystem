@@ -1,0 +1,1 @@
+Not too much to put here yet. Runic / Rune Operating System will aim to be an extremely secure Operating System based on BSD and Gentoo.
